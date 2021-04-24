@@ -2,12 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <omp.h>
-//#include <chrono>
-//#include <iostream>
-
-//using namespace std;
-//using namespace std::chrono;
-
 
 
 
