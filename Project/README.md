@@ -4,6 +4,7 @@ The main idea if this project is to compare CuDNN and Torch time and accuracy pe
 
 Link to the presentation: https://www.canva.com/design/DAEfnmXM5ok/y6Kn-u4BvYZ2lMwHXKF5Lg/view?utm_content=DAEfnmXM5ok&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton.
 
+## Datasets
 
 In this projects 2 datasets are used:
 - MNIST (60 000 pictures and 10 classes)
@@ -13,7 +14,7 @@ MNIST                     |  Fashion MNIST
 :-------------------------:|:-------------------------:
 ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/MNIST.png)  |  ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/Fashion_MNIST.png)
 
-
+## Architecture
 
 Main architectures that were used for this project are:
 - SimpleNet;
