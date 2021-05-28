@@ -38,7 +38,7 @@ ReLUNet                     |  LargeNet
 
 Both models were traind with:
 - SGD optimizer
-- for differnt number of epoches (1,5,15,30 and 45)
+- for different number of epoches (1,5,15,30 and 45)
 
 ## Calculation results
 
