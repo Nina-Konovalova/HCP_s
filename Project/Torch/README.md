@@ -11,3 +11,5 @@ And one of the model:
 - Model = 'large' for LargeNet;
 - Model = 'relu' for ReLUNet;
 - Model = 'lenet' for Lenet.
+
+Also the .ipunb file is appended to run the whole train.
