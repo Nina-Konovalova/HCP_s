@@ -2,6 +2,9 @@
 
 The main idea if this project is to compare CuDNN and Torch time and accuracy performance.
 
+Link to the presentation: https://www.canva.com/design/DAEfnmXM5ok/y6Kn-u4BvYZ2lMwHXKF5Lg/view?utm_content=DAEfnmXM5ok&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton.
+
+
 In this projects 2 datasets are used:
 - MNIST (60 000 pictures and 10 classes)
 - Fashion MNIST (60 000 pictures and 10 classes)
