@@ -10,11 +10,27 @@ MNIST                     |  Fashion MNIST
 :-------------------------:|:-------------------------:
 ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/MNIST.png)  |  ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/Fashion_MNIST.png)
 
+
+
 Main architectures that were used for this project are:
 - SimpleNet;
 - Lenet
 - ReLUNet
 - LargeNet
+
+
+SimpleNet                   |  Lenet
+:-------------------------:|:-------------------------:
+![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/SimpleNet_pic.png)  |  ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/LeNet_pic.png)
+
+
+ReLUNet                     |  LargeNet
+:-------------------------:|:-------------------------:
+![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/ReLUNet_pic.png)  |  ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/Project/pictures/Other/LargeNet_pic.png)
+
+
+
+
 
 Both models were traind with:
 - SGD optimizer
