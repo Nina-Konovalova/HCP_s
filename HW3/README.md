@@ -1,4 +1,4 @@
-1. Laplace equation:  
+# 1. Laplace equation:  
 
 - solve the Laplace equation using CUDA. (10 points)
 
@@ -6,7 +6,7 @@
 
 ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/HW3/heatmap.png)
 
-2. Filtering:
+# 2. Filtering:
 
 Take an arbitrary image and apply two types of filters to it using CUDA.
 
@@ -19,7 +19,7 @@ Blured                     |  Median
 :-------------------------:|:-------------------------:
 ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/HW3/blured_cat.png)  |  ![](https://github.com/Nina-Konovalova/HCP_skoltech/blob/main/HW3/med_cat.png)
 
-3. Histogram:
+# 3. Histogram:
 
 You need to plot a  histogram for a chosen picture. For this purpose:
 
